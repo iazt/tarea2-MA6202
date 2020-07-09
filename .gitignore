@@ -1,9 +1,2 @@
-###########
-##Folders##
-###########
-
-/.ipynb_checkpoints
-
-#########
-##Files##
-#########
+*.ipynb_checkpoints
+ChestXRay2017/
