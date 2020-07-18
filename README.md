@@ -5,4 +5,7 @@ Pesos obtenidos al entrenar: https://drive.google.com/file/d/1SoZswgWEQTyCHwCV-k
 
 Notebook para P1 y P2: https://colab.research.google.com/drive/1u_jNIDVm4u3Ae2QILYw2FK4RYzPQHXp9?usp=sharing#scrollTo=Gnd2AQcypEL8
 
-Notebook P3: Corresponde al archivo "Tarea 2.ipynb" de este mismo repositorio
+Notebook P3: Corresponde al archivo "Tarea 2.ipynb" 
+ 
+Informe Final: Corresponde al archivo "Tarea_2__Procesamiento_distribuido_y_redes_neuronales_profundas (1).pdf" 
+
